@@ -21,7 +21,7 @@ body {
   margin: 0;
 }
 /* view port height - browser has 100 slices horizontal. 100 is the whole height  */
-/* the body above is common and centers everything on the page */
+/* the body styling above is common and centers everything on the page */
 
 .container {
   background-color: #fff;
